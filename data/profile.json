@@ -1,0 +1,41 @@
+{
+  "name": "Gayathiri K G",
+  "bio": "Full-Stack Web Developer (Entry-Level)",
+  "email": "gayuvenkatgv@gmail.com",
+  "location": "Madurai, Tamil Nadu",
+  "photo": "profile.jpg",
+  "careerObjective": "Enthusiastic and detail-oriented Entry-Level Full-Stack Web Developer with hands-on experience in building responsive websites and dashboards using HTML, CSS, JavaScript, and Excel. Eager to contribute to real-world projects and continue learning through impactful internships in a collaborative environment.",
+  "skills": {
+    "frontend": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Responsive Design"],
+    "backend": ["Node.js", "SQL & Database Management"],
+    "tools": ["Git & GitHub", "Visual Studio Code", "Excel (Advanced – Data Analysis & Dashboard Creation)"],
+    "softSkills": ["Communication", "Team Collaboration", "Problem-Solving"]
+  },
+  "certifications": [
+    "Kaashiv Infotech, Chennai – Full-Stack Development Training"
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Website",
+      "description": "Built a responsive, user-friendly e-commerce site using HTML, CSS, and JavaScript. Implemented product display, shopping cart functionality, and basic interactivity."
+    },
+    {
+      "name": "Sales Dashboard",
+      "description": "Designed a dynamic dashboard in Excel to analyze and visualize sales KPIs. Used pivot tables, charts, and functions to support strategic decision-making."
+    }
+  ],
+  "education": [
+    "Bachelor of Commerce (Computer Science) – Sourashtra College, Madurai (2018 - 2021)",
+    "Higher Secondary Certificate – Sita Lakshmi Girls Higher Secondary School, Madurai (2016 - 2018)"
+  ],
+  "achievements": [
+    "Successfully completed full-stack development projects during training.",
+    "Active contributor to team projects and collaborative problem-solving sessions.",
+    "Participated in workshops and seminars on web development."
+  ],
+  "hobbies": ["Photography", "Chess", "Blogging"],
+  "additionalInfo": [
+    "Availability for relocation and remote work.",
+    "Committed to continuous professional development through online courses and coding challenges."
+  ]
+}
