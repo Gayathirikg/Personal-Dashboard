@@ -1,2 +1,6 @@
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
+/* styles/globals.css */
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
